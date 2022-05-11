@@ -11,8 +11,10 @@ public class whileloop {
 		int i = 0;
 			while(i<10) {
 				i++;
-				System.out.println(num1 * i);
+				int k=num1 * i;
+				System.out.println(num1+"*"+i +"=" +k  );
 			}
 	}
 
 }
+
