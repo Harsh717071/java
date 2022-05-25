@@ -1,6 +1,6 @@
 package corejava;
 
-public class Driver2 {
+ class Driver2 {
 	public static void main ( String [] args ) 
 	{ 
 	double [] dblArr = {3.5 , 6.8 , 2.3 , 9.1 , 1.};
