@@ -1,6 +1,6 @@
 package corejava;
 
-public class Driver1 {
+ class Driver1 {
 public static void main(String[]args) {
 	String [] strArr = new String [10]; 
 	for (int i = strArr . length - 1; i >= 0; i --) 
