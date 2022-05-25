@@ -1,6 +1,6 @@
 package corejava;
 
-public class Driver6 {
+ class Driver6 {
 	public static void main(String[] args)
 	{
 	int arr[] = { 11, 22, 33 };
