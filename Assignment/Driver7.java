@@ -1,6 +1,6 @@
 package corejava;
 
-public class Driver7 {
+ class Driver7 {
 	public static void main(String[] args)
 	{
    	 String str[] = { "Geeks", "for", "Geeks" };
