@@ -1,10 +1,15 @@
+//java program to find the Average of int array
+
+
+
+
 package corejava;
 
 import java.util.Scanner;
 
 
 
- class Average {
+ class AverageArray {
 
 	public static void main(String[] args) {
 	
