@@ -1,10 +1,13 @@
+//WAP to create new array list , add some colors(String)and print out the collection
+
+
 package corejava;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;
 
- class Arraylistinput {
+ class ArrayListInput {
  public static void main(String[]args) {
 	 Scanner sc = new Scanner(System.in);
 	 System.out.println("enter the first name");
