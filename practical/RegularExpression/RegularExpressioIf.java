@@ -3,8 +3,9 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class RegularExpressioIf {
+ class RegularExpressioIf {
 	public static void main(String[] args) { 
+		//creating the scanner class
 		Scanner sc = new Scanner(System.in); 
 		System.out.println("Enter input text: "); 
 		String input = sc.nextLine();
