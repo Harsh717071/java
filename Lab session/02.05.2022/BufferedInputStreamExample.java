@@ -9,7 +9,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.InputStream;
 
-public class BufferedInputStreamExample {
+class BufferedInputStreamExample {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
